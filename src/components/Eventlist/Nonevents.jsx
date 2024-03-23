@@ -20,8 +20,7 @@ function Nonevents() {
     <div className={Eo.card}>
       <p className={Eo.cardtitle}>Kollywood</p>
       <p className={Eo.smalldesc}>
-         Welcome to our Paper Presentation event, where knowledge meets innovation and ideas take center stage! Are you ready to showcase your research prowess and make a lasting impact? Join us for an exhilarating journey of exploration,
-         discovery, and intellectual exchange.
+         Lights, camera, action! Get ready for a cinematic and spectacle like no other as we bring you "Kollywood Kaleidoscope," a celebration of the vibrant and captivating world of Tamil cinema!
       </p>
       <Link to='/kollywood' className={Eo.reg}>Click to register</Link>
       <div className={Eo.gocorner}>
@@ -42,8 +41,7 @@ function Nonevents() {
     <div className={Eo.card}>
       <p className={Eo.cardtitle}>Curiosity Casket</p>
       <p className={Eo.smalldesc}>
-         Welcome to our Paper Presentation event, where knowledge meets innovation and ideas take center stage! Are you ready to showcase your research prowess and make a lasting impact? Join us for an exhilarating journey of exploration,
-         discovery, and intellectual exchange.
+         Step into a world of fun and excitement with our Fun-tastic Fiesta event! Whether you're a thrill-seeker, a jokester, or simply looking for a good time, this event promises endless laughter, unforgettable memories, and an abundance of joy for everyone involved.
       </p>
       <Link to="/casket" className={Eo.reg}>Click to register</Link>
       <div className={Eo.gocorner}>
