@@ -4,7 +4,7 @@ import Navbar from './components/Navbar/Navbar';
 import Techevent from './components/Eventlist/Techevent';
 import Nonevents from './components/Eventlist/Nonevents';
 import Footer from './components/Footer/Footer';
-import Poster from './components/images/poster.png';
+import Poster from './components/images/COG.jpg';
 import { Link } from 'react-scroll';
 import AOS from 'aos';
 import 'aos/dist/aos.css';
