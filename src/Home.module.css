@@ -35,8 +35,9 @@ body{
 }
 .logg{
     margin-top: -12%;
-    margin-left: -3%;
+    margin-left: 0%;
     animation: slideRight 2s ease-in-out;
+    width: 100%;
 }
 .homepage h1{
     font-size: 140px;
@@ -128,6 +129,7 @@ body{
 }
 .homepage p{
     text-align: center;
+    margin-top: 15%;
 }
 .voice1{
     margin-top: 10%;
