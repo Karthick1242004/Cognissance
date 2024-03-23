@@ -10,7 +10,7 @@ function News() {
         <div className={No.nc1}>
              <div className={No.nc}>
                  <h1>Edition 1</h1>
-                 <p>CS Connect is your ultimate companion for staying updated on departmental news, exploring placement statistics, and gaining valuable insights from placement experiences. Whether you're a student, faculty member, or industry professional, this newsletter is tailored to meet your needs in the dynamic world of computer science.</p>
+                 <p>Scriptus Connect is your ultimate companion for staying updated on departmental news, exploring placement statistics, and gaining valuable insights from placement experiences. Whether you're a student, faculty member, or industry professional, this newsletter is tailored to meet your needs in the dynamic world of computer science.</p>
                  <a className={No.aa} href='https://heyzine.com/flip-book/89de0d11cf.html'>Click To View</a>
              </div>
              <div className={No.nc}>
