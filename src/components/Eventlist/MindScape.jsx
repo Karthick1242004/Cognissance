@@ -21,7 +21,7 @@ const MindScape =()=>
             <h2 className={Eo.h2}>Coordinators</h2>
             <ul className={Eo.ul}>
                 <li>Sharvithaa D - +91 9894149096</li>
-                <li>Samvardhani M - +91 9487183168</li>
+                <li>Samvardhani D - +91 9487183168</li>
             </ul>
         </div>
     </div>
