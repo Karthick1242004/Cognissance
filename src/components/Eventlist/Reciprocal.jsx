@@ -22,7 +22,7 @@ const Reciprocal = () => {
                 <h2 className={Eo.h2}>Venue and Timing</h2>
                 <ul className={Eo.ul}>
                     <li>Date: 13 April 2024</li>
-                    <li>Timing: 10.00 AM to 12.30 PM</li>
+                    <li>Timing: 01.15 PM to 03.00 PM</li>
                 </ul>
                 <h2 className={Eo.h2}>Coordinators</h2>
                 <ul className={Eo.ul}>
