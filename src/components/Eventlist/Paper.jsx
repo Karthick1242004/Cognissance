@@ -18,7 +18,7 @@ const Paper = () => {
                 </ul>
                 <h2 className={Eo.h2}>Guidelines</h2>
                 <ul className="list-disc ml-6">
-                    <li>Max Members in team: 2</li>
+                    <li>Max Members in team: 3</li>
                     <li>Time for presentation: 5 mins (4+1)</li>
                 </ul>
                 <h2 className={Eo.h2}>Venue and Timing</h2>
@@ -30,7 +30,7 @@ const Paper = () => {
                 <ul className="list-decimal ml-6">
                     <li>Keerthana G - +91 9788634145</li>
                     <li>Shivaani J - +91 9047539797</li>
-                    <li>Prasanth Raju - +91 8946050246</li>
+                    <li>Prasanndh Raaju M R - +91 8946050246</li>
                 </ul>
             </div>
         </div>
