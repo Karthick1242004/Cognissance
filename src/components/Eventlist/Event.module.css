@@ -171,4 +171,8 @@ span{
   .button{
     margin-left: 25%;
   }
+  .goarrow
+  {
+    text-decoration:none;
+  }
 }
