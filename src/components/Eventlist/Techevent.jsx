@@ -42,7 +42,7 @@ function Techevent() {
     <div className={Eo.card}>
       <p className={Eo.cardtitle}>BitRealm (Circuit Branch)</p>
       <p className={Eo.smalldesc}>
-      <b>Only for the mentioned departments : CSE,IT,CSD,AIML,AIDS,CT-UG,CT-PG,MBA,MCA</b><br/>Get ready for the coding challenge of a lifetime in Bit Realm! It's not just about code; it's a test of your problem-solving skills. This is your chance to shine. Step into the Bit Realm and emerge as the coding champion!.
+      <b>Only for the mentioned departments : CSE,IT,CSD,AIML,AIDS,CT-UG,CT-PG</b><br/>Get ready for the coding challenge of a lifetime in Bit Realm! It's not just about code; it's a test of your problem-solving skills. This is your chance to shine. Step into the Bit Realm and emerge as the coding champion!.
       </p>
       <Link to='/bitrealm' className={Eo.reg}>Click to register</Link>
       <div className={Eo.gocorner}>
