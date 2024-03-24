@@ -54,6 +54,7 @@ span{
   margin-right: -4px;
   color: white;
   font-family: courier, sans;
+  text-decoration:none;
 }
 .card {
   display: block;
