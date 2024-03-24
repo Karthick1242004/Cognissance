@@ -125,7 +125,7 @@ span{
   background-color: rgb(129, 24, 227);
   border: none;
   border-radius: 5px;
-  
+  text-decoration:none;
 }
 .div{
   width: 100%;
