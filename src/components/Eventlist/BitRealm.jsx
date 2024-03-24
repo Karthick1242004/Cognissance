@@ -7,7 +7,7 @@ const BitRealm = () => {
         <div className={Eo.func1}>
             <div className="max-w-4xl p-6">
             <h1 className={Eo.func}>BitRealm</h1>
-                <p className={Eo.func2}>Only for the mentioned departments : CSE,IT,CSD,AIML,AIDS,CT-UG,CT-PG,MBA,MCA<br/>Get ready for the coding challenge of a lifetime in Bit Realm! It's not just about code; it's a test of your problem-solving skills. This is your chance to shine. Step into the Bit Realm and emerge as the coding champion!.</p>
+                <p className={Eo.func2}>Only for the mentioned departments : CSE,IT,CSD,AIML,AIDS,CT-UG,CT-PG,MCA<br/>Get ready for the coding challenge of a lifetime in Bit Realm! It's not just about code; it's a test of your problem-solving skills. This is your chance to shine. Step into the Bit Realm and emerge as the coding champion!.</p>
                 <div className={Eo.div}><button className={Eo.button}><a href="https://forms.gle/pbgjhGSUpmreFDh97" target="_blank" rel="noopener noreferrer" className={Eo.anti}>Register Now</a></button></div>
                 <h2 className={Eo.h2}>Guidelines</h2>
                 <ul className={Eo.ul}>
