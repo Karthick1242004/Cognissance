@@ -14,7 +14,7 @@ function Nonevents() {
        </p>
        <Link to="/scan" className={Eo.reg}>Click to register</Link>
        <div className={Eo.gocorner}>
-         <Link to="/scan"><div className={Eo.goarrow}>→</div></Link>
+         <Link to="/scan"><a className={Eo.goarrow}>→</a></Link>
        </div>
     </div>
     <div className={Eo.card}>
