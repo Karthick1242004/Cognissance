@@ -154,6 +154,9 @@ span{
 .anti{
   color: white;
 }
+a{
+text-decoration:none;
+}
 @media screen and (max-width:750px)
 {
   .func2{
