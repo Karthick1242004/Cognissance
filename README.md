@@ -1,7 +1,19 @@
-Heading : CSEA-Cognissance Website
-Stack : React JS - Web
-Details : • As a part of Computer Science and Engineering Association ,I developed this webpage for my Computer Science Department symposium named 'Cognissance2k24' with great passion and detication in my work.
-Project Type : Solo Project(Team Leader, Frontend Developer)
-LinkedIn : https://www.linkedin.com/feed/update/urn:li:activity:7190759607982583808/
-Github : https://github.com/Karthick1242004/Cognissance
-Image : display.png
+# CSEA-Cognissance Website
+
+![Project Image](display.png)
+
+## Overview
+
+This repository contains the source code for the website developed for the Computer Science and Engineering Association's symposium named 'Cognissance2k24'. The website was built using React JS for the frontend.
+
+## Project Details
+
+- **Project Type:** Solo Project
+- **Role:** Team Leader, Frontend Developer
+- **Passion and Dedication:** Developed with great passion and dedication in the work.
+
+## Links
+
+- [LinkedIn Project Update](https://www.linkedin.com/feed/update/urn:li:activity:7190759607982583808/)
+- [GitHub Repository](https://github.com/Karthick1242004/Cognissance)
+
